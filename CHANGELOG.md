@@ -1,3 +1,6 @@
+## [3.4.0] - Release
+  - Migrates to material_ui.
+  - Updates minimum supported SDK version to Flutter 3.44/Dart 3.12.
 ## [3.3.0] - Release
 
 - Add `magnifierConfiguration` to customize the magnifier.
